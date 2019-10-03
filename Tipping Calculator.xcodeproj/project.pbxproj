@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D5799D05233AB69F00B62E1B /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5799D04233AB69F00B62E1B /* SettingViewController.swift */; };
 		D5CB230C230F1A6600008F9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CB230B230F1A6600008F9C /* AppDelegate.swift */; };
 		D5CB230E230F1A6600008F9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CB230D230F1A6600008F9C /* ViewController.swift */; };
 		D5CB2311230F1A6600008F9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5CB230F230F1A6600008F9C /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D5799D04233AB69F00B62E1B /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		D5CB2308230F1A6600008F9C /* Tipping Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tipping Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5CB230B230F1A6600008F9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5CB230D230F1A6600008F9C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				D5CB230B230F1A6600008F9C /* AppDelegate.swift */,
 				D5CB230D230F1A6600008F9C /* ViewController.swift */,
 				D5CB230F230F1A6600008F9C /* Main.storyboard */,
+				D5799D04233AB69F00B62E1B /* SettingViewController.swift */,
 				D5CB2315230F1A6800008F9C /* Assets.xcassets */,
 				D5CB2317230F1A6800008F9C /* LaunchScreen.storyboard */,
 				D5CB231A230F1A6800008F9C /* Info.plist */,
@@ -141,6 +144,7 @@
 				D5CB230E230F1A6600008F9C /* ViewController.swift in Sources */,
 				D5CB2314230F1A6600008F9C /* Tipping_Calculator.xcdatamodeld in Sources */,
 				D5CB230C230F1A6600008F9C /* AppDelegate.swift in Sources */,
+				D5799D05233AB69F00B62E1B /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
